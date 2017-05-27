@@ -1,0 +1,6 @@
+package: github.com/flowup/go-edesky
+import:
+- package: github.com/parnurzeal/gorequest
+  version: ^0.2.15
+  subpackages:
+  - '...'
